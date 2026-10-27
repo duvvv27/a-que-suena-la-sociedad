@@ -1,0 +1,25 @@
+CRÉDITOS DE AUDIO
+=================
+Todas las grabaciones son de Freesound.org con licencia Creative Commons 0 (dominio público).
+No es obligatorio atribuirlas, pero se agradece. Se recortaron a loops, se nivelaron y se comprimieron a .ogg.
+
+trafico.ogg  "traffic medium jam gridlock throaty angry horn honks and bicycle bell"
+             kyles · https://freesound.org/people/kyles/sounds/451523/
+
+obras.ogg    mezcla de dos grabaciones:
+             "Road Works in Swiss Cottage, London"
+             JoeDinesSound · https://freesound.org/people/JoeDinesSound/sounds/341268/
+             "siren.mp3"
+             radiopassiveboy · https://freesound.org/people/radiopassiveboy/sounds/150409/
+
+marcha.ogg   "Protesting Crowd, Climate Strike, Guildford, 01-01.wav"
+             InspectorJ · https://freesound.org/people/InspectorJ/sounds/485621/
+
+tala.ogg     "Cutting tree with chainsaw, tree breaking and falling.wav"
+             SebastianJack · https://freesound.org/people/SebastianJack/sounds/659255/
+
+sanado.ogg   "Ambience - European city park - morning - birds - light wind.wav"
+             ValentinPetiteau · https://freesound.org/people/ValentinPetiteau/sounds/563547/
+
+orbita.ogg   "spacedrone3.wav"
+             Elektrocell · https://freesound.org/people/Elektrocell/sounds/20705/

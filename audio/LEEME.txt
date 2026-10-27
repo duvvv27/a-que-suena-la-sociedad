@@ -1,0 +1,21 @@
+GRABACIONES REALES PARA EL JUEGO
+================================
+
+El juego ya incluye grabaciones reales CC0 (ver CREDITOS.txt). Si falta alguna, usa un sonido sintetizado.
+Para cambiar una grabación por otra:
+
+1. Busca en https://freesound.org (filtro de licencia: "Creative Commons 0") clips de 10 a 20 segundos:
+     trafico  -> "traffic jam horns"
+     obras    -> "construction site jackhammer siren"
+     marcha   -> "protest chanting crowd"
+     tala     -> "chainsaw logging truck"
+     sanado   -> "park birds fountain ambience"
+     orbita   -> "space drone ambience"   (opcional)
+
+2. Recórtalos y expórtalos como .ogg (o .mp3), mono, 64–96 kbps, para que pesen ~100–150 KB
+   (Audacity sirve: Archivo > Exportar). Que el inicio y el final empalmen bien, porque suenan en bucle.
+
+3. Copia los archivos a esta carpeta (audio/) y escribe sus nombres en sonidos.json, por ejemplo:
+     "trafico": "trafico.ogg",
+
+4. Anota autor, enlace y licencia de cada clip en CREDITOS.txt.

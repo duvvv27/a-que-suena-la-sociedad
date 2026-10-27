@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>¿A qué suena la sociedad?</title>
+<meta name="description" content="Juego de escucha social: encuentra en un planeta simulado de dónde viene cada sonido y relaciónalo con conceptos de Humanidades y Ciencias Sociales.">
+<meta name="theme-color" content="#181425">
+<link rel="icon" href="data:,">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<main id="stage" aria-label="Juego: ¿A qué suena la sociedad?">
+  <canvas id="gl" aria-hidden="true"></canvas>
+  <canvas id="hud" aria-hidden="true"></canvas>
+  <div id="ui"></div>
+</main>
+<div id="live" class="sr-only" aria-live="polite" aria-atomic="true"></div>
+<div id="fatal" hidden></div>
+<noscript><p class="nojs">Este juego necesita JavaScript activado.</p></noscript>
+<script type="module" src="src/main.js"></script>
+</body>
+</html>

@@ -1,0 +1,9 @@
+{
+  "_ayuda": "Grabaciones reales usadas por el juego. Si borras una línea, el juego usa un sonido sintetizado.",
+  "trafico": "trafico.ogg",
+  "obras": "obras.ogg",
+  "marcha": "marcha.ogg",
+  "tala": "tala.ogg",
+  "sanado": "sanado.ogg",
+  "orbita": "orbita.ogg"
+}
